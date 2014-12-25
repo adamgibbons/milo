@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /book/
+Disallow: /eol-center/
+Disallow: /donate/
+Disallow: /research/
+Disallow: /tracker/
